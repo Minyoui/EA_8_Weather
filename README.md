@@ -1,6 +1,6 @@
-# diceko
+# Weather App
 
-Dice ko to
+Weather App Attempt 
 
 ## Getting Started
 
